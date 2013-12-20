@@ -10,7 +10,7 @@ module TokenGenerator
 
     def generate!
       begin
-        token = SecureRandom.hex(8)
+        token = SecureRandom.urlsafe_base64(12)
       end until validator.call(token)
       token
     end
