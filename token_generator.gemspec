@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = TokenGenerator::VERSION
   spec.authors       = ["Roy van der Meij"]
   spec.email         = ["roy@royapps.nl"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = "A simple way to generate tokens"
+  spec.summary       = "A simple way to generate tokens"
   spec.homepage      = ""
   spec.license       = "MIT"
 
