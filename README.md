@@ -6,15 +6,11 @@ TODO: Write a gem description
 
 Add this line to your application's Gemfile:
 
-    gem 'tokengenerator'
+    gem 'token_generator', github: 'roy/token_generator'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install tokengenerator
 
 ## Usage
 
